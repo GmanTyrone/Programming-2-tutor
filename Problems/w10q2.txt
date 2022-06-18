@@ -1,4 +1,4 @@
-lass queue:public container
+class queue:public container
 {
     public:
         int idx;
